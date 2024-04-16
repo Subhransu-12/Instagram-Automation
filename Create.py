@@ -36,7 +36,6 @@ password_field.send_keys("Pekka@12")
 sign_up_button = driver.find_element(By.XPATH, "//button[@type='submit' and text()='Sign Up']")
 sign_up_button.click()
 
-
 time.sleep(10)
 
 driver.quit()
