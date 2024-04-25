@@ -1,11 +1,2 @@
+Python automation emerges as a pivotal solution for managing Instagram accounts with efficiency and precision. By harnessing the capabilities of the instabot library and embracing responsible automation practices, users can optimize their presence on Instagram while adhering to platform guidelines. It is imperative to prioritize compliance with Instagram's terms of service to maintain account integrity and avoid potential repercussions. Through meticulous implementation and thorough system testing, Instagram automation not only enhances user experience but also serves as a valuable asset for individuals and businesses aiming to elevate their Instagram presence effectively and sustainably.
 
-response times on the graph are drastically different because of network speed variation as per ISP or slow process of individual's computer.
-Correct
-The google speed test is a flaky test itself and sometimes fails to return a proper response. These failures are eventually taken into account by our own test which can cause the test to end later than a successful test would end.
-
-6.
-Question 6
-How could you make our performance test of the google speed test more robust such that it recognizes failures of the software under test faster?
-
-1 / 1 point
-performance test of the google speed test can be made more robust by testing the application output,processing speest memory utilization Command response time and network bandwidth .
